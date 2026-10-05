@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForjaNexus</string>
+    <string name="menu_subtitle">Automação Industrial 2.5D • Multi-Biomas &amp; Rede Elétrica</string>
+    <string name="btn_continue">Continuar Fábrica</string>
+    <string name="btn_new_game">Nova Partida</string>
+    <string name="btn_tutorial">Guia &amp; Receitas</string>
+    <string name="btn_settings">Configurações &amp; Áudio</string>
+    <string name="skip_tutorial">Pular Tutorial</string>
+</resources>

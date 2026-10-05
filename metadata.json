@@ -1,0 +1,6 @@
+{
+  "name": "ForjaNexus",
+  "description": "Jogo mobile 2.5D de construção e automação de fábricas com múltiplos biomas, rede elétrica e cadeias produtivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
